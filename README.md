@@ -5,57 +5,56 @@ You can click the Preview link to take a look at your changes.
 
 <!-- README.md -->
 
+<!-- README.md -->
+
 <h1 align="center">Kensuke.M</h1>
-<p align="center" style="font-size:14px">
-  M1 @ JAIST — <em>Excelsior, baby steps.</em> <br/>
-  楽しみながら着実に成長することがモットーです
+<p align="center">
+  First-year Master’s student in Information Science @ JAIST&nbsp;｜<em>Excelsior</em><br/>
+  楽しみながら一歩ずつ成長することを大切にしています
 </p>
 
 <div align="center">
-  <!-- social icons -->
   <a href="https://x.com/KensukeM39" aria-label="X">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg"
-         alt="X" height="22" style="margin-right:14px; filter:grayscale(85%) opacity(85%);"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" alt="X" height="22" style="margin:0 12px 0 0;" />
   </a>
   <a href="https://github.com/KensukeM39" aria-label="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/github.svg"
-         alt="GitHub" height="22" style="margin-right:14px; filter:grayscale(85%) opacity(85%);"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/github.svg" alt="GitHub" height="22" style="margin:0 12px;" />
   </a>
   <a href="https://qiita.com/KensukeM" aria-label="Qiita">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/qiita.svg"
-         alt="Qiita" height="22" style="filter:grayscale(85%) opacity(85%);"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/qiita.svg" alt="Qiita" height="22" />
   </a>
 </div>
 
 ---
 
-### 🚀 Projects
-| Year | Project | Context | Stack / Role |
-|------|---------|---------|--------------|
-| 2023 | LED Matrix Board | Undergraduate group work (3 members) | Raspberry&nbsp;Pi / C – firmware & animation |
-| 2024 | [Pseudo-haptics](https://github.com/KensukeM39/Pseudo-haptics) | NAIST Summer Program (solo) | Unity – pseudo-haptic prototype |
+## Projects
+| Year | Project | Role / Context | Tech Highlights |
+|------|---------|----------------|-----------------|
+| 2023 | LED Matrix Board | Firmware & animation (team of 3) | Raspberry Pi&nbsp;• C |
+| 2024 | [Pseudo-haptics](https://github.com/KensukeM39/Pseudo-haptics) | Solo prototype (NAIST Summer Program) | Unity |
 
 ---
 
-### 🔧 Toolbox
-| Category | Tools & Notes |
-|----------|---------------|
-| **Languages** | **C**（出発点・Raspberry Pi 開発に使用） / **Python**（MNIST 画像分類などで実践） |
-| **Dev Ops**   | Git / GitHub ・ WSL 2 (Ubuntu) ・ Docker |
-| **LLM / AI**  | **Dify + Ollama** — ローカル LLM 環境を構築しテスト |
-| **Web**       | HTML / CSS |
-
+## Toolbox
+| Area | Tools & Notes |
+|------|---------------|
+| **Languages** | C（基礎・RPi 開発）／Python（MNIST 実装ほか） |
+| **Dev Ops** | Git / GitHub・WSL 2・Docker |
+| **LLM / AI** | Dify + Ollama ― ローカル LLM 構築・検証 |
+| **Web** | HTML / CSS |
 
 ---
 
-### 🌱 Now Exploring
+## Currently Exploring
 - Machine Learning / NLP  
-- Web Application Dev  
+- Web Application Development  
 
 ---
 
-### 🔗 Elsewhere
-- Qiita: <https://qiita.com/KensukeM>
-- X/Twitter: <https://x.com/KensukeM39>
+## Links
+- Qiita  : <https://qiita.com/KensukeM>  
+- X / Twitter : <https://x.com/KensukeM39>
+
+
 
 <!-- END -->
