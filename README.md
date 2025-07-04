@@ -15,13 +15,13 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://x.com/KensukeM39" aria-label="X">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg" alt="X" height="22" style="margin:0 12px 0 0;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/x.svg"　alt="x" width="16" height="16" style="margin:0 12px 0 0;" />
   </a>
   <a href="https://github.com/KensukeM39" aria-label="GitHub">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/github.svg" alt="GitHub" height="22" style="margin:0 12px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/github.svg" alt="GitHub" width="16" height="16" style="margin:0 12px 0 0;" />
   </a>
   <a href="https://qiita.com/KensukeM" aria-label="Qiita">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/qiita.svg" alt="Qiita" height="22" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/qiita.svg" alt="Qiita" width="16" height="16" style="margin:0 12px 0 0;"/>
   </a>
 </div>
 
