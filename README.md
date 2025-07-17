@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Kensuke M</h1>
+<h1 align="center">Kensuke.M</h1>
 <p align="center">
   M1 @ JAIST (Information Science)<br/>
   Security First, Exploring Cloud/Web/AI
@@ -39,7 +39,7 @@
 | Category | Stack | Level* |
 |----------|-------|--------|
 | Languages | Python ・ C | ■□□ |
-| Security  | 暗号理論 | ■□□ |
+| Security  | 暗号理論 ・ 代数学 | ■□□ |
 | Web Frontend | HTML ・ CSS ・ JavaScript | ■□□ |
 | AI & LLM | Local LLM の試作運用 (Dify ・ Ollama) | ■□□ |
 | Tools | Git ・ Docker ・ WSL2 | ■□□ |
@@ -53,8 +53,8 @@
 | Year | Project | Role | Tech |
 |------|---------|----------------|------|
 | **2025** | [emocloud - 技育CAMP ハッカソン](https://github.com/JAIST-Hackathon/emocloud) | 5人チームで Web アプリ開発に挑戦．主に UI の設計と試作を担当 | JavaScript など |
-| **2024** | [Pseudo-haptics - NAIST ｻﾏｰｾﾐﾅｰ](https://github.com/KensukeM39/Pseudo-haptics) | Unity による疑似触覚の試作 | Unity |
-| **2023** | LED Matrix Board | 3人チームで Raspberry Pi 開発に挑戦．主に LED 制御を担当 | C ・ Raspberry Pi|
+| **2023** | [Pseudo-haptics - NAIST Summer Seminar 2023](https://github.com/KensukeM39/Pseudo-haptics) | Unity による疑似触覚の試作 | Unity |
+|  | LED Matrix Board | 3人チームで Raspberry Pi 開発に挑戦．主に LED 制御を担当 | C ・ Raspberry Pi|
 
 ---
 
