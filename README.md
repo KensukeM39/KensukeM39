@@ -28,7 +28,7 @@
 
 ## 👤 About Me
 
-- M1 ＠ JAIST - 暗号理論と情報セキュリティ研究室に所属
+- M1 ＠ JAIST - 暗号と情報セキュリティ研究室に所属
 - **セキュリティを軸**に学習中で，クラウド / Web / AI 技術への関心もあります
 - 基礎力向上とアウトプットを両立し、実践的スキルを身につけるのが目標です
 
@@ -58,12 +58,26 @@
 
 ---
 
+## 🔒 CTF Experience
+
+**SECCON Beginners CTF 2025**（Team J-B, crypto 3問担当）
+
+- **学んだこと**
+  - プログラムを自ら作成し、フラグを取得するCTFならではの楽しさを実感 
+  - AIチャットボットのアシストを活用しつつ、自力での思考プロセスの重要性を体感
+
+- **今後の目標**
+  - CTFの基礎基本を学び、CTFイベントに参加・挑戦
+
+---
+
 ## 🌱 Interests (Priority: Security &gt; Cloud/Web &gt; AI)
 
 - 🔐 **Security Engineering** – 暗号理論のための代数学を学習中
 - ☁️ **Cloud Basics** – AWS Hands‑on でインフラ構築を学習予定
 - 🌐 **Web App** – UI/UX 設計から実装まで一貫して試したい
 - 📈 **AtCoder** - 毎週 ABC 参加で基礎力向上 (2025/06~)
+- 🧩 **CTF** - SECCON Beginners CTF に初参加
 - ⌨️ **Input Ergonomics** – Kanata でホームポジションを最適化中
 
 ---
