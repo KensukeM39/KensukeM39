@@ -3,7 +3,7 @@
 <h1 align="center">Kensuke.M</h1>
 <p align="center">
   M1 @ JAIST (Information Science)<br/>
-  Security First, Exploring Cloud/Web/AI
+  Security First, Exploring Cloud/Web
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 ## 👤 About Me
 
 - M1 ＠ JAIST - 暗号と情報セキュリティ研究室に所属
-- **セキュリティを軸**に学習中で，クラウド / Web / AI 技術への関心もあります
+- **セキュリティを軸**に学習中で，クラウド / Web 技術への関心もあります
 - 基礎力向上とアウトプットを両立し、実践的スキルを身につけるのが目標です
 
 ---
@@ -40,6 +40,7 @@
 |----------|-------|--------|
 | Languages | Python ・ C | ■□□ |
 | Security  | 暗号理論 ・ 代数学 | ■□□ |
+| Cloud  | AWS | ■□□ |
 | Web Frontend | HTML ・ CSS ・ JavaScript | ■□□ |
 | AI & LLM | Local LLM の試作運用 (Dify ・ Ollama) | ■□□ |
 | Tools | Git ・ Docker ・ WSL2 | ■□□ |
@@ -71,12 +72,12 @@
 
 ---
 
-## 🌱 Interests (Priority: Security &gt; Cloud/Web &gt; AI)
+## 🌱 Interests (Priority: Security &gt; Cloud/Web)
 
 - 🔐 **Security Engineering** – 暗号理論のための代数学を学習中
-- ☁️ **Cloud Basics** – AWS Hands‑on でインフラ構築を学習予定
+- ☁️ **Cloud Basics** – AWS Hands‑on でインフラ構築を学習中（マネコン・CDKによるVPC/EC2作成経験あり）
 - 🌐 **Web App** – UI/UX 設計から実装まで一貫して試したい
-- 📈 **AtCoder** - 毎週 ABC 参加で基礎力向上 (2025/06~)
+- 📈 **AtCoder** - ABC 参加で基礎力向上 (2025/06~)
 - 🧩 **CTF** - SECCON Beginners CTF に初参加
 - ⌨️ **Input Ergonomics** – Kanata でホームポジションを最適化中
 
